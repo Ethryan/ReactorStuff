@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "reactor_stuff:uranium_ore" }
+    }
+}

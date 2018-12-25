@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "reactor_stuff:items/depleted_triga_rod_dual"
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "reactor_stuff",
+  "name": "Reactor Stuff",
+  "description": "An ic2 addon for more nuclear fuels",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EnderiumSmith"],
+  "credits": "AlexIIL(the buildcraft dev) for the glowing block code",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,10 @@
+{
+    "parent": "reactor_stuff:block/rtg_base",
+    "textures": {
+        "top": "reactor_stuff:blocks/rtg",
+	"bottom": "reactor_stuff:blocks/rtg",
+	"side": "reactor_stuff:blocks/rtg",
+	"fan": "reactor_stuff:blocks/rtg",
+	"none": "reactor_stuff:blocks/rtg_none"
+    }
+}
